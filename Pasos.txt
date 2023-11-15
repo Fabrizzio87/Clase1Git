@@ -1,0 +1,6 @@
+git init
+git branch -M main
+git remote add origin git@github.com:Fabrizzio87/Clase1Git.git    //para el primer commit
+git add clase1.html
+git commit -m "subo primeros comandos al git"
+git push -u origin main      //para el primer commit
