@@ -4,3 +4,5 @@ git remote add origin git@github.com:Fabrizzio87/Clase1Git.git    //para el prim
 git add clase1.html
 git commit -m "subo primeros comandos al git"
 git push -u origin main      //para el primer commit
+
+git pull origen main  //tra los cambios realizados por mi compañero de trabajo
